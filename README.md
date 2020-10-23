@@ -1,0 +1,1 @@
+# pVerify-WordpressPlugin-settings
